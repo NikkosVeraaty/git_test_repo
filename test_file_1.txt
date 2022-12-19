@@ -1,2 +1,4 @@
 random text in test_file_1.txt
 new change in file
+
+------------------------------
